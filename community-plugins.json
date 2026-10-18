@@ -18723,5 +18723,19 @@
     "author": "Naoufal Elouahabi",
     "description": "Autocomplete suggestions from JSON wordlist files with domain and category filtering.",
     "repo": "Elouahabi-Naoufal/obsidian-wordlist-autocomplete"
+  },
+  {
+    "id": "islam-plugin",
+    "name": "Islam Plugin",
+    "author": "Naoufal Elouahabi",
+    "description": "Track Salah prayers and Islamic practices.",
+    "repo": "Elouahabi-Naoufal/obsidian-islam-plugin"
+  },
+  {
+    "id": "subject-manager",
+    "name": "Subject Manager",
+    "author": "Naoufal Elouahabi",
+    "description": "Complete academic subject management with projects, assignments, exams, and todo tracking.",
+    "repo": "Elouahabi-Naoufal/obsidian-subject-manager-plugin"
   }
 ]
